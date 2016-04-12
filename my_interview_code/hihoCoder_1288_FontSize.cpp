@@ -39,7 +39,7 @@ int solve(int N, int P, int W ,int H)
 }
 
 int main(void) {
-    	
+    
 	int  TASKS;
 	cin >> TASKS;
 	while(TASKS--){
